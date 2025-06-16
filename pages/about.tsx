@@ -116,7 +116,8 @@ export default function About() {
 
   const team = [
     { name: "Aadeesh Jain", role: "" },
-    { name: "Ariba Qureshi", role: "" }
+    { name: "Ariba Qureshi", role: "" },
+    { name: "Akshita Shukla", role: "" }
   ]
 
   const colors = {
